@@ -2,7 +2,7 @@
 
 <h3 align="center">Back-end Software Engineer</h3>
 
-- 🌱 I’m currently learning Golang, Kotlin, Pytorch
+- 🌱 I’m currently learning Pytorch
 
 
 <div style="display: inline_block"><br>
